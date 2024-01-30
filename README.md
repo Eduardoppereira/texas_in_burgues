@@ -1,6 +1,6 @@
 # Relatório de Vendas da Texas In Rio Burgues
 
-![Food Delivery Dashboard](https://github.com/Eduardoppereira/texas_in_burgues/blob/main/Food%20Delivery%20Dashboard.png)
+![Food Delivery Dashboard](https://github.com/Eduardoppereira/texas_in_burgues/blob/main/Food%20Delivery%20Dashboard_2.png)
 
 ## Análises do Projeto
 
